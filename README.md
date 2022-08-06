@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=BMZkb3sOtpE
+
 # Nested-ESXi
 This is Nested ESXi project that will deploy 5 ESXi hosts with 4 PNICs, 3 diks, create two clusters (MGMT and Compute), add those hosts there, create new latest version of vDS (7.0 at the moment), move last two PNICs to vDS and add port-groups. 
 Finally NSX-T Manager and two NSX-T Edges will be rolled out on a new infrastructure.
